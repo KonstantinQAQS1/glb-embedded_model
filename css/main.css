@@ -40,9 +40,10 @@ p {
 iframe {
     margin-left: 0.5%;
     margin-right: 0.5%;
+    /* margin: 0px; */
     padding: 0px;
     min-height: 750px;
-    max-width: 98.5%;
+    max-width: 98%;
 }
 
 header {
