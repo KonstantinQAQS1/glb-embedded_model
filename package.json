@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KonstantinQAQS1/glb-embedded_model/issues"
   },
-  "homepage": "https://github.com/KonstantinQAQS1/glb-embedded_model#readme"
+  "homepage": "https://github.com/KonstantinQAQS1/glb-embedded_model#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
 }
