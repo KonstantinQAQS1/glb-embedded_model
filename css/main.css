@@ -29,8 +29,17 @@ p {
     flex-direction: column;
 }
 
+.frame_container {
+
+    padding-left: auto;
+    padding-right: auto;
+
+
+}
+
 iframe {
-    margin: 0px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
     padding: 0px;
     min-height: 750px;
     max-width: 99%;
