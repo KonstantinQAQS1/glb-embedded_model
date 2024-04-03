@@ -98,8 +98,22 @@ h3 {
     background-color: #fff700a2;
 }
 
+.stage2 {
+    background-color: #ffbb00;
+
+}
+
+.new_stage {
+    background-color: #4dff00;
+
+}
+.new_stage2 {
+    background-color: #0055ff;
+
+}
+
 .production {
-    background-color: #ff000080;
+    background-color: #ff0000ba;
 }
 
 .text {
